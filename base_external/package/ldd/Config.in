@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_LDD
+	bool "ldd assignment"
+	help
+	  Includes ldd kernel modules.
